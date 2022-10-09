@@ -10,7 +10,7 @@
 
 > About Vix.
 
-- Hello, my name is Vix. I am 19 years old and I am currently learning JavaScript. I am a Java dev and new to anarchy. ;)
+- Hello, my name is Vix. I am 19 years old and I am currently learning JavaScript and C++. I am a Java dev and new to anarchy. ;)
 
 > About Altheus.
 
