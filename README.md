@@ -6,7 +6,7 @@
 
 - SiriusMod is being developed using the java language.
 
-- You can get access and support by joining the discord server ' '.
+- You can get access and support by joining the discord server 'https://discord.gg/2ERTUwGVpK'.
 
 > About Vix.
 
