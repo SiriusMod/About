@@ -1,4 +1,4 @@
-🌌 SIRIUS MOD 🌐
+🌌 SIRIUS MOD 🌌
 
 - Welcome to SiriusMod! a 1.12.2 minecraft mod/client intended for anarchy servers.
 
